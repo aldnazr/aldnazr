@@ -31,16 +31,13 @@ Here are some ideas to get you started:
   <img align="left" alt="Laravel" title="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
 </a>
 <a href="https://jupyter.org/">
-  <img align="left" alt="Jupyter Notebook" title="Jupyter Notebook" width="30px" src="https://jupyter.org/assets/homepage/main-logo.svg" />
+  <img align="left" alt="Dart" title="Dart" width="30px" src="https://dart.dev/assets/img/logo/logo-white-text.svg" />
 </a>
 <a href="https://developer.android.com/kotlin">
   <img align="left" alt="Kotlin" title="Kotlin" width="30px" src="https://img.icons8.com/color/344/kotlin.png" />
 </a>
 <a href="https://www.java.com/en/">
   <img align="left" alt="Java" title="Java" width="30px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" />
-</a>
-<a href="https://www.python.org/">
-  <img align="left" alt="Python" title="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" />
 </a>
 <a href="https://www.php.net/">
   <img align="left" alt="Java" title="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/php-2038871-1720084.png" />
