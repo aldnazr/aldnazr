@@ -31,7 +31,7 @@ I'm an `final year` Information System Students at [Universitas Dinamika](https:
 <a href="https://www.java.com/en/">
   <img align="left" alt="Java" title="Java" width="32px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" />
 </a>
-<a href="https://www.php.net/">
+<a href="https://www.php.net/" style="margin-top: 20px;">
   <img alt="PHP" title="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.png" />
 </a>
 <br><br>
