@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Tools & Languages
  <a href="https://developer.android.com/studio/">
-  <img align="left" alt="Android Studio" title="AndroidStudio" width="30px" src="https://img.icons8.com/fluency/344/android-studio--v2.png" />
+  <img align="left" alt="Android Studio" title="AndroidStudio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/800px-Android_Studio_icon_%282023%29.svg.png" />
 </a>
 <a href="https://code.visualstudio.com/">
   <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="30px" src="https://img.icons8.com/fluency/344/visual-studio-code-2019.png" />
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Laravel" title="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
 </a>
 <a href="https://www.flutter.dev/">
-  <img align="left" alt="Flutter" title="Flutter" width="28px" src="https://raw.githubusercontent.com/aldnazr/aldnazr/refs/heads/main/icon_flutter.png" />
+  <img align="left" alt="Flutter" title="Flutter" width="26px" src="https://raw.githubusercontent.com/aldnazr/aldnazr/refs/heads/main/icon_flutter.png" />
 </a>
 <a href="https://dart.dev/">
   <img align="left" alt="Dart" title="Dart" width="30px" src="https://raw.githubusercontent.com/aldnazr/aldnazr/refs/heads/main/icon_dart%402x.png" />
