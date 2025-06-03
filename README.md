@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Laravel" title="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
 </a>
 <a href="https://www.flutter.dev/">
-  <img align="left" alt="Flutter" title="Flutter" width="26px" src="https://raw.githubusercontent.com/aldnazr/aldnazr/refs/heads/main/icon_flutter.png" />
+  <img align="left" alt="Flutter" title="Flutter" width="24px" src="https://raw.githubusercontent.com/aldnazr/aldnazr/refs/heads/main/icon_flutter.png" />
 </a>
 <a href="https://dart.dev/">
   <img align="left" alt="Dart" title="Dart" width="30px" src="https://raw.githubusercontent.com/aldnazr/aldnazr/refs/heads/main/icon_dart%402x.png" />
