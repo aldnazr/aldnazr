@@ -6,17 +6,6 @@ I'm an `final year` Information System Students at [Universitas Dinamika](https:
 - Develop Github User Search (Dicoding BFAA Submission) | [Repository](https://github.com/apriantoa917/android-dicoding-BFAA)
 - Currently Develop Picnicker Android Apps : Tourism ticketing apps, associated with my thesis | [Website](https://picnicker.id/link)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 ## Tools & Languages
  <a href="https://developer.android.com/studio/">
   <img align="left" alt="Android Studio" title="AndroidStudio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/800px-Android_Studio_icon_%282023%29.svg.png" />
@@ -37,10 +26,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Dart" title="Dart" width="30px" src="https://raw.githubusercontent.com/aldnazr/aldnazr/refs/heads/main/icon_dart%402x.png" />
 </a>
 <a href="https://developer.android.com/kotlin">
-  <img align="left" alt="Kotlin" title="Kotlin" width="30px" src="https://img.icons8.com/color/344/kotlin.png" />
+  <img align="left" alt="Kotlin" title="Kotlin" width="32px" src="https://img.icons8.com/color/344/kotlin.png" />
 </a>
 <a href="https://www.java.com/en/">
-  <img align="left" alt="Java" title="Java" width="30px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" />
+  <img align="left" alt="Java" title="Java" width="32px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" />
 </a>
 <a href="https://www.php.net/">
   <img align="left" alt="Java" title="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/php-2038871-1720084.png" />
