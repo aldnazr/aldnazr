@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <a href="https://laravel.com/">
   <img align="left" alt="Laravel" title="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
 </a>
-<a href="https://jupyter.org/">
-  <img align="left" alt="Dart" title="Dart" width="30px" src="https://dart.dev/assets/img/logo/logo-white-text.svg" />
+<a href="https://dart.dev/">
+  <img align="left" alt="Dart" title="Dart" width="300px" src="https://dart.dev/assets/img/logo/logo-white-text.svg" />
 </a>
 <a href="https://developer.android.com/kotlin">
   <img align="left" alt="Kotlin" title="Kotlin" width="30px" src="https://img.icons8.com/color/344/kotlin.png" />
