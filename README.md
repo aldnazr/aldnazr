@@ -1,5 +1,5 @@
 ### Introduction
-I'm an `final year` Information System Students at [Universitas Dinamika](https://www.dinamika.ac.id/) and now I'm following the program [`Google Bangkit 2024`](https://grow.google/intl/id_id/bangkit/). I have big passion working with Android Developement, previously i involved in the development of android applications
+I have big passion working with Android Developement, previously i involved in the development of android applications.
 
 ## Tools & Languages
  <a href="https://developer.android.com/studio/">
