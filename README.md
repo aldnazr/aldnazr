@@ -6,6 +6,6 @@ I have big passion working with Android Developement, previously i involved in t
 
 ## My Github Stats
 ![Azhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldnazr&show_icons=true&theme=transparent)
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldnazr&theme=transparent&layout=compact" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aldnazr&theme=transparent&locale=id)](https://git.io/streak-stats)
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=apriantoa917&theme=flat&margin-w=5&no-frame=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldnazr&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aldnazr&theme=transparent)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aldnazr)](https://github.com/ryo-ma/github-profile-trophy)
