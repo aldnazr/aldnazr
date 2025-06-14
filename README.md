@@ -3,6 +3,7 @@
 I have big passion working with Software Developement, previously i involved in the development some applications.
 
 - Develop PPTA Website : Revamping the Academic Final Project Service Center Website as part of my undergraduate thesis project. | [Repository](https://github.com/aldnazr/ppta)
+- Develop Blendit APP : Face recognition to provide makeup product recommendations | [Repository](https://github.com/aldnazr/blendit-capstone-project)
 
 ## Tools & Languages
 
