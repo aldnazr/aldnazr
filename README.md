@@ -16,5 +16,5 @@ I have big passion working with Software Developement, previously i involved in 
 | --- | --- |
 | ![Azhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldnazr&hide_title=true&hide_border=true&show_icons=true&theme=transparent) | [![GitHub Streak](https://streak-stats.demolab.com?user=aldnazr&hide_border=true&theme=transparent)](https://git.io/streak-stats) |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldnazr&layout=compact&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldnazr&layout=compact&card_width=410)
 [![trophy](https://github-profile-trophy.vercel.app/?username=aldnazr)](https://github.com/ryo-ma/github-profile-trophy)
