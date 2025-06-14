@@ -1,5 +1,6 @@
 ### Introduction
-I have big passion working with Android Developement, previously i involved in the development of android applications.
+I have big passion working with Software Developement, previously i involved in the development some applications.
+- Develop PPTA Website : Revamping the Academic Final Project Service Center Website as part of my undergraduate thesis project. | [Repository](https://github.com/aldnazr/ppta)
 
 ## Tools & Languages
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,tailwind,postman,laravel,flutter,dart,kotlin,java,php,js,html,css&theme=light)](https://skillicons.dev)
