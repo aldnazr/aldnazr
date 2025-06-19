@@ -8,9 +8,17 @@ I have big passion working with Software Developement, previously i involved in 
 - Develop Github User APP : An application for retrieving user data from GitHub | [Repository](https://github.com/aldnazr/android-aplikasi-github-user)
 - Develop Story APP : app to share some stories | [Repository](https://github.com/aldnazr/android-story-app)
 
-## Tools & Languages
+## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,tailwind,postman,laravel,flutter,react,dart,kotlin,java,php,js,html,css,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,kotlin,java,php,js&theme=light)](https://skillicons.dev)
+
+## Framework
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,flutter,react,tailwind,bootstrap&theme=light)](https://skillicons.dev)
+
+## Tools
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,postman,html,css,mysql&theme=light)](https://skillicons.dev)
 
 ## My Github Stats
 
