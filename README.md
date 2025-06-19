@@ -10,7 +10,7 @@ I have big passion working with Software Developement, previously i involved in 
 
 ## Tools & Languages
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,tailwind,postman,laravel,flutter,dart,kotlin,java,php,js,html,css,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,tailwind,postman,laravel,flutter,react,dart,kotlin,java,php,js,html,css,mysql&theme=light)](https://skillicons.dev)
 
 ## My Github Stats
 
