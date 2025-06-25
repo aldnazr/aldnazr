@@ -1,12 +1,6 @@
 # Introduction
 
-I have big passion working with Software Developement, previously i involved in the development several applications:
-
-- Develop PPTA Website : Revamping the Academic Final Project Service Center Website as part of my undergraduate thesis project. | [Repository](https://github.com/aldnazr/ppta)
-- Develop Blendit APP : Face recognition to provide makeup product recommendations | [Repository](https://github.com/aldnazr/blendit-capstone-project)
-- Develop Phone Transaction APP : An application used by cashiers for mobile phone transactions | [Repository](https://github.com/aldnazr/netbeans-transaction?tab=readme-ov-file)
-- Develop Github User APP : An application for retrieving user data from GitHub | [Repository](https://github.com/aldnazr/android-aplikasi-github-user)
-- Develop Story APP : app to share some stories | [Repository](https://github.com/aldnazr/android-story-app)
+I'm passionate about software development and have been involved in building several applications across web and mobile platforms. You can explore more of my work at my portfolio: [PORTOFOLIO](https://aldnazr.github.io/portofolio)
 
 ## Languages
 
