@@ -1,6 +1,6 @@
 # Introduction
 
-I'm passionate about software development and have been involved in building several applications across web and mobile platforms. You can explore more of my work at my portfolio: [PORTOFOLIO](https://aldnazr.github.io/portofolio)
+I'm passionate about software development and have been involved in building several applications across web and mobile platforms. You can explore more of my work at [my portfolio](https://aldnazr.github.io/portofolio)
 
 ## Languages
 
