@@ -4,11 +4,11 @@ I'm passionate about software development and have been involved in building sev
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=dart,kotlin,java,php,js,ts,cs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,kotlin,java,php,ts,cs&theme=light)](https://skillicons.dev)
 
 ## Framework
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,flutter,dotnet,next,react,tailwind,bootstrap&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,next,react,laravel,dotnet&theme=light)](https://skillicons.dev)
 
 ## Tools
 
