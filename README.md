@@ -16,10 +16,10 @@ I'm passionate about software development and have been involved in building sev
 
 ## My Github Stats
 
-| Stats | Streak |
-| --- | --- |
-| ![Azhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldnazr&hide_title=true&hide_border=true&show_icons=true&theme=transparent&include_all_commits=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=aldnazr&hide_border=true&theme=transparent)](https://git.io/streak-stats) |
+| Stats                                                                                                                                                                              | Streak                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| ![Azhar's GitHub stats](https://github-stats-extended.vercel.app/api?username=aldnazr&hide_title=true&hide_border=true&show_icons=true&theme=transparent&include_all_commits=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=aldnazr&hide_border=true&theme=transparent)](https://git.io/streak-stats) |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldnazr&layout=compact&card_width=410)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=aldnazr&layout=compact&card_width=410)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aldnazr)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=aldnazr&theme=dracula)
