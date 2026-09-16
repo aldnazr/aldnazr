@@ -4,7 +4,7 @@ I'm passionate about software development and have been involved in building sev
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=dart,kotlin,java,php,ts&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,kotlin,php,ts&theme=light)](https://skillicons.dev)
 
 ## Framework
 
