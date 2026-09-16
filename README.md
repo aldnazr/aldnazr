@@ -12,7 +12,7 @@ I'm passionate about software development and have been involved in building sev
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,postman,html,css,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,postman,html,css,mysql&theme=light)](https://skillicons.dev)
 
 ## My Github Stats
 
